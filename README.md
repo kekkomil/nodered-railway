@@ -1,6 +1,8 @@
-# Node-RED su Railway con MySQL
+# Node-RED su Railway con MySQL e Dashboard 2
 
-Questa applicazione lancia un'istanza Node-RED su Railway. Può essere connessa a un database MySQL tramite i nodi `node-red-node-mysql`.
+Questa applicazione lancia un'istanza Node-RED su Railway. Include supporto per:
+- `node-red-node-mysql` per interagire con MySQL
+- `@flowfuse/node-red-dashboard` (Dashboard 2)
 
 ## Variabili ambiente richieste
 
